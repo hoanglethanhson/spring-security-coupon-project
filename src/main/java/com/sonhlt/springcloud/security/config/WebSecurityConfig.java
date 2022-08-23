@@ -1,5 +1,6 @@
-package com.sonhlt.springcloud.security;
+package com.sonhlt.springcloud.security.config;
 
+import com.sonhlt.springcloud.security.UserDetailsServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
